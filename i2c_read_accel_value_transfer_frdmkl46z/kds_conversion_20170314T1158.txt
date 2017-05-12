@@ -1,5 +1,0 @@
-20170314T1158 Import Existing KDS projects in workspace conversion report
-Project name: i2c_read_accel_value_transfer_frdmkl46z
-Project location: /home/wenbo/Ucare/SDK_2.0_FRDM-KL46Z/boards/frdmkl46z/driver_examples/i2c/read_accel_value_transfer/kds
-Conversion status: success.
-A backup of the original .cproject file has been created in .cproject_backup

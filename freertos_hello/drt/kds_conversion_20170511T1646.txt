@@ -1,0 +1,5 @@
+20170511T1646 Import Existing KDS projects in workspace conversion report
+Project name: freertos_hello_frdmkl46z
+Project location: C:/Freescale/SDK_2.2_FRDM-KL46Z/boards/frdmkl46z/rtos_examples/freertos_hello/drt
+Conversion status: success.
+A backup of the original .cproject file has been created in .cproject_backup
